@@ -1,0 +1,296 @@
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\AW\Desktop\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\Logger B51-B\Downloads\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\DesktopDataGrabber_dotnet4.6\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\WÓJCIK ROZJEBANY\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\amiwip - proj\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.g.cs
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\App.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+C:\Users\Emil\Desktop\Raspberry\AMiWIP_desktop_app\DesktopDataGrabber_dotnet4.6.1\DesktopDataGrabber\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe.config
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.exe
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\DesktopDataGrabber.pdb
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.dll
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\OxyPlot.dll
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.dll
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\WPFToolkit.dll
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\Newtonsoft.Json.xml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\OxyPlot.xml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\bin\Debug\OxyPlot.Wpf.xml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csprojAssemblyReference.cache
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.Shared.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Styles.WPF.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\MetroDark\Theme.Colors.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.Shared.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Styles.WPF.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\Themes\Metro\Theme.Colors.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\MainWindow.g.cs
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\App.g.cs
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.cache
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber_MarkupCompile.lref
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\App.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\View\MainWindow.baml
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.g.resources
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.Properties.Resources.resources
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.GenerateResource.cache
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CoreCompileInputs.cache
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.csproj.CopyComplete
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.exe
+B:\nawojcika\pi_desktop_app-master\DesktopDataGrabber\obj\Debug\DesktopDataGrabber.pdb
